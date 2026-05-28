@@ -10,9 +10,9 @@ Due to the script relying on php 4.* and even breaking in 5.*, i modernized it [
 
 Script name : ArdGuest
 Version : 1.8b
-Website : http://www.promosi-web.com/script/guestbook/
+Website : http://web.archive.org/web/20131126073154/http://promosi-web.com/script/guestbook/
 Email : aryasmail@yahoo.com.au
-Download URL : http://www.promosi-web.com/script/guestbook/download/
+Download URL : http://web.archive.org/web/20131126073154/http://promosi-web.com/script/guestbook/download
 
 ----------------------------------------------------------------------
 
